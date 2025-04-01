@@ -1,0 +1,27 @@
+
+*{
+    /* border: solid 1px red; */
+    padding: 2px;
+}
+.header, .footer {
+    background-color: #f7f7f7;
+}
+.name_state_postal_code_message{
+    width: 100%;
+}
+textarea{
+    min-height: 100px;
+}
+fieldset {
+    margin: 5px;
+}
+fieldset * {
+    padding: 5px;
+}
+
+h3{
+    background-color: alert-secondary;
+}
+.btn{
+    margin: 10px 2px;
+}
